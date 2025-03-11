@@ -61,7 +61,7 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ### Database Management System
 - [StudyTonight DBMS+SQL](https://www.studytonight.com/dbms/)
 - [GeeksForGeeks DBMS](https://www.geeksforgeeks.org/dbms/)
-- [Database System Concepts 7th Edition Slides(Avi Silberschatz, Henry F. Korth, S. Sudarshan](https://db-book.com/slides-dir/)
+- [Database System Concepts 7th Edition Slides(Avi Silberschatz, Henry F. Korth, S. Sudarshan)](https://db-book.com/slides-dir/)
 - [JavaPoint DBMS Interview Questions](https://www.tpointtech.com/dbms-interview-questions)
 
 ### Operating System
