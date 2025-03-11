@@ -73,4 +73,6 @@ Most asked interview questions from CS concepts.
 
 ## HR Questions
 - [Naukri.com Top 50 HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
-- 
+- [Keka HR Questions with Answers](https://www.keka.com/hr-round-interview-questions-and-answers)
+- [Tpoint Tech HR Questions with Multiple Answers](https://www.tpointtech.com/job-interview-questions)
+- [InterviewBit HR Questions with Detailed Answers](https://www.interviewbit.com/hr-interview-questions/)
