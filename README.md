@@ -27,5 +27,5 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [StudyTonight CN](https://www.studytonight.com/computer-networks/)
 - [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
-## Aptitude, Placement MCQs, Group Discussion, HR Questions
+## Aptitude, Technical MCQs, Group Discussion, HR Questions
 - [IndiaBix](https://www.indiabix.com/)
