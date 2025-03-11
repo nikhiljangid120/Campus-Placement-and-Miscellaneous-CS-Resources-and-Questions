@@ -18,10 +18,8 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [TutorialGateway C Tutorials](https://www.tutorialgateway.org/c-programming-examples/)
 - [Sanfoundry C Programs](https://www.sanfoundry.com/c-programming-examples/)
 - [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
-- [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
 
 ### Python
-- [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
 - [W3Resource Python Solved Exercises](https://www.w3resource.com/python-exercises/)
 - [IncludeHelp Python Programs](https://www.includehelp.com/python/programs.aspx)
 - [IncludeHelp Python Tutorials](https://www.includehelp.com/python/)
@@ -46,6 +44,13 @@ DSA coding sheets to land software development roles in product based companies.
 
 - [Striver A2Z & SDE sheets](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Love Babar DSA 450 sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/)
+- [Neetcode 150/ 250/ Blind 75]((https://neetcode.io/practice)
+
+### DSA and Mathematical Coding Questions
+- [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
+- [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
+- [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
+- [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
   
 ## CS Concepts
 Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice questions with solutions.
