@@ -1,8 +1,12 @@
 # General Coding and Learning Resources
 This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and CS concepts like OS, CN, etc for my personal use. Also contains resources I used to crack campus placements.
 
+## Table of Contents
+1. [Programming](#programming)
+2. [Coding Platforms and SDE Sheets](#coding-platforms-and-sde-sheets)
+
 ## Programming
-Helpful links for SQL and programming languages like C, Python with tutorials and practice questions.
+Helpful links for SQL and programming languages like C, Python with tutorials and solved practice questions.
 
 ### C Programming
 - [IncludeHelp C Tutorials and Questions](https://www.includehelp.com/c/)
