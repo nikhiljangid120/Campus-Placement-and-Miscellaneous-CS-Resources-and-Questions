@@ -1,6 +1,17 @@
 # General Coding and Learning Resources
 This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and CS concepts like OS, CN, etc for my personal use. Also contains resources I used to crack campus placements.
 
+## Programming
+Helpful links for SQL and programming languages like C, Python with tutorials and practice questions.
+
+### C Programming
+- [IncludeHelp C Tutorials and Questions](https://www.includehelp.com/c/)
+- [IncludeHelp C Solved Examples](https://www.includehelp.com/c-programming-examples-solved-c-programs.aspx)
+- [TutorialGateway C Tutorials](https://www.tutorialgateway.org/c-programming-examples/)
+- [Sanfoundry C Programs](https://www.sanfoundry.com/c-programming-examples/)
+- [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
+
+
 ## CS Concepts
 Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice questions with solutions.
 
