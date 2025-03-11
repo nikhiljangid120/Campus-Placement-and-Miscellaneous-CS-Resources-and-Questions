@@ -4,6 +4,10 @@ This repository is used for saving questions with solutions from Hackkerank, Cod
 ## Table of Contents
 1. [Programming](#programming)
 2. [Coding Platforms and SDE Sheets](#coding-platforms-and-sde-sheets)
+3. [CS Concepts](#cs-concepts)
+4. [Cheatsheets](#cheatsheets)
+5. [Aptitude, Technical MCQs, Group Discussion, HR Questions](#aptitude-technical-mcqs-group-discussion-hr-questions)
+6. [HR Questions (Freshers)](#hr-questions)
 
 ## Programming
 Helpful links for SQL and programming languages like C, Python with tutorials and solved practice questions.
