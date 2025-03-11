@@ -53,6 +53,7 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ### Database Management System
 - [StudyTonight DBMS+SQL](https://www.studytonight.com/dbms/)
 - [GeeksForGeeks DBMS](https://www.geeksforgeeks.org/dbms/)
+- [JavaPoint DBMS Interview Questions](https://www.tpointtech.com/dbms-interview-questions)
 
 ### Operating System
 - [StudyTonight OS](https://www.studytonight.com/operating-system/)
@@ -72,7 +73,7 @@ Most asked interview questions from CS concepts.
 - [IndiaBix](https://www.indiabix.com/)
 
 ## HR Questions
-- [Naukri.com Top 50 HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
-- [Keka HR Questions with Answers](https://www.keka.com/hr-round-interview-questions-and-answers)
+- [Naukri.com Top 50+ HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
+- [Keka 30 HR Questions with Answers](https://www.keka.com/hr-round-interview-questions-and-answers)
 - [Tpoint Tech HR Questions with Multiple Answers](https://www.tpointtech.com/job-interview-questions)
 - [InterviewBit HR Questions with Detailed Answers](https://www.interviewbit.com/hr-interview-questions/)
