@@ -11,7 +11,19 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [Sanfoundry C Programs](https://www.sanfoundry.com/c-programming-examples/)
 - [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
 
+## Coding Platforms and SDE Sheets
+### Platforms
+Platforms to practice coding and participate in contests.
+- [Leetcode (for PBCs)](https://leetcode.com/problemset/)
+- [Hackerrank (for problem solving and DSA)](https://www.hackerrank.com/dashboard)
+- [CodeChef (for problem solving and DSA)](https://www.codechef.com/practice#interview)
+- [GeeksForGeeks (Company-wise questions)](https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/)
+- [Coding Ninjas/ Code360 (Company-wise questions)](https://www.naukri.com/code360/problems)
 
+### SDE Sheets
+DSA coding sheets to land software development roles in product based companies.
+
+- 
 ## CS Concepts
 Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice questions with solutions.
 
