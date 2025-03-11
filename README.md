@@ -10,10 +10,14 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [TutorialGateway C Tutorials](https://www.tutorialgateway.org/c-programming-examples/)
 - [Sanfoundry C Programs](https://www.sanfoundry.com/c-programming-examples/)
 - [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
+- [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
 
 ### Python
-- [Sanfoundry Python Programs](https://www.sanfoundry.com/python-problems-solutions/)
+- [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
 - [W3Resource Python Solved Exercises](https://www.w3resource.com/python-exercises/)
+- [IncludeHelp Python Programs](https://www.includehelp.com/python/programs.aspx)
+- [IncludeHelp Python Tutorials](https://www.includehelp.com/python/)
+- [TutorialGateway Python Solved Exercises](https://www.tutorialgateway.org/python-programming-examples/)
 
 ### SQL
 - [GeeksForGeeks SQL Questions for Interviews](https://www.geeksforgeeks.org/sql-interview-questions/)
