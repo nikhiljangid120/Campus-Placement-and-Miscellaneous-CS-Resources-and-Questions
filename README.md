@@ -12,7 +12,7 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
 
 ## Coding Platforms and SDE Sheets
-### Platforms
+### Coding Platforms
 Platforms to practice coding and participate in contests.
 - [Leetcode (for PBCs)](https://leetcode.com/problemset/)
 - [Hackerrank (for problem solving and DSA)](https://www.hackerrank.com/dashboard)
@@ -41,5 +41,12 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [StudyTonight CN](https://www.studytonight.com/computer-networks/)
 - [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
+## Cheatsheets
+Most asked interview questions from CS concepts.
+
+- [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
+- [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
+
 ## Aptitude, Technical MCQs, Group Discussion, HR Questions
 - [IndiaBix](https://www.indiabix.com/)
+  
