@@ -88,7 +88,11 @@ Most asked interview questions from CS concepts.
 ## Puzzles
 Mostly asked in service based or related companies.
 
-- []()
+- [GeeksForGeeks Category-wise Puzzles with Company Tags](https://www.geeksforgeeks.org/puzzles/)
+- [GeeksForGeeks Top 100 Interview Puzzles](https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/)
+- [GeeksForGeeks Mathematical Puzzles](https://www.geeksforgeeks.org/what-are-mathematical-puzzles-and-how-to-solve-them/)
+- [GeeksForGeeks Logical Puzzles](https://www.geeksforgeeks.org/what-are-logical-puzzles-and-how-to-solve-them/)
+- [GeeksForGeeks Puzzle Articles](https://www.geeksforgeeks.org/tag/puzzles/)
 - [Neso Academy Brain Teasers](https://www.nesoacademy.org/ot/01-brain-teasers)
 - [PrepInsta Top 100 Puzzles](https://prepinsta.com/top-100-puzzles/)
 
@@ -96,7 +100,8 @@ Mostly asked in service based or related companies.
 Interview experiences are important to know about round details, questions asked, topics to prepare, and tips for clearing.
 
 - [GeeksForGeeks Interview Experience Articles](https://www.geeksforgeeks.org/category/experiences/)
+- [GeeksForGeeks Company-wise Experienced Interviews](https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/)
 - [AmbitionBox Company Interviews](https://www.ambitionbox.com/interviews)
 - [Glassdoor Company Questions](https://www.glassdoor.co.in/index.htm)
-- [Coding Ninjas/Naukri](https://www.naukri.com/code360/interview-experiences)
+- [Coding Ninjas/Naukri Interview Experience](https://www.naukri.com/code360/interview-experiences)
 - [Leetcode Discuss (#interview)](https://leetcode.com/discuss/topic/interview/)
