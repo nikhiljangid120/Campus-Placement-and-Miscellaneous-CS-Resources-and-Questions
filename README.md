@@ -44,7 +44,7 @@ DSA coding sheets to land software development roles in product based companies.
 
 - [Striver A2Z & SDE sheets](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Love Babar DSA 450 sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/)
-- [Neetcode 150/ 250/ Blind 75]((https://neetcode.io/practice)
+- [Neetcode 150/ 250/ Blind 75](https://neetcode.io/practice)
 
 ### DSA and Mathematical Coding Questions
 - [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
