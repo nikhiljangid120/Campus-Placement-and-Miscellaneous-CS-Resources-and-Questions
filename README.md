@@ -15,6 +15,11 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [Sanfoundry Python Programs](https://www.sanfoundry.com/python-problems-solutions/)
 - [W3Resource Python Solved Exercises](https://www.w3resource.com/python-exercises/)
 
+### SQL
+- [GeeksForGeeks SQL Questions for Interviews](https://www.geeksforgeeks.org/sql-interview-questions/)
+- [GeeksForGeeks SQL Queries Asked in Interviews](https://www.geeksforgeeks.org/sql-query-interview-questions/)
+- [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
+
 ## Coding Platforms and SDE Sheets
 ### Coding Platforms
 Platforms to practice coding and participate in contests.
