@@ -80,6 +80,7 @@ Most asked interview questions from CS concepts.
 
 ## Aptitude, Technical MCQs, Group Discussion, HR Questions
 - [IndiaBix](https://www.indiabix.com/)
+- [Group Discussion Topic-wise Preparation](https://www.groupdiscussionideas.com/)
 
 ## HR Questions
 - [Naukri.com Top 50+ HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
