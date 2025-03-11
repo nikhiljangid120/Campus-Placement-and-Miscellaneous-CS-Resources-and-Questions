@@ -12,6 +12,9 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [StudyTonight OS](https://www.studytonight.com/operating-system/)
 - [GeeksForGeeks OS](https://www.geeksforgeeks.org/operating-systems/)
 
+## Aptitude, Placement MCQs, Group Discussion, HR Questions
+- [IndiaBix](https://www.indiabix.com/)
+
 ### Computer Networks
 - [StudyTonight CN](https://www.studytonight.com/computer-networks/)
 - [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
