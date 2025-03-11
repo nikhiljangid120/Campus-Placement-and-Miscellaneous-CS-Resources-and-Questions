@@ -11,6 +11,10 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [Sanfoundry C Programs](https://www.sanfoundry.com/c-programming-examples/)
 - [GeeksForGeeks Learn C Language](https://www.geeksforgeeks.org/c-programming-language/)
 
+### Python
+- [Sanfoundry Python Programs](https://www.sanfoundry.com/python-problems-solutions/)
+- [W3Resource Python Solved Exercises](https://www.w3resource.com/python-exercises/)
+
 ## Coding Platforms and SDE Sheets
 ### Coding Platforms
 Platforms to practice coding and participate in contests.
@@ -49,4 +53,7 @@ Most asked interview questions from CS concepts.
 
 ## Aptitude, Technical MCQs, Group Discussion, HR Questions
 - [IndiaBix](https://www.indiabix.com/)
-  
+
+## HR Questions
+- [Naukri.com Top 50 HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
+- 
