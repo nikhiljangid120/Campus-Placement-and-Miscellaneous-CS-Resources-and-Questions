@@ -8,6 +8,8 @@ This repository is used for saving questions with solutions from Hackkerank, Cod
 4. [Cheatsheets](#cheatsheets)
 5. [Aptitude, Technical MCQs, Group Discussion, HR Questions](#aptitude-technical-mcqs-group-discussion-hr-questions)
 6. [HR Questions (Freshers)](#hr-questions)
+7. [Puzzles](#puzzles)
+8. [Interview Experience](#interview-experience)
 
 ## Programming
 Helpful links for SQL and programming languages like C, Python with tutorials and solved practice questions.
@@ -82,3 +84,19 @@ Most asked interview questions from CS concepts.
 - [Keka 30 HR Questions with Answers](https://www.keka.com/hr-round-interview-questions-and-answers)
 - [Tpoint Tech HR Questions with Multiple Answers](https://www.tpointtech.com/job-interview-questions)
 - [InterviewBit HR Questions with Detailed Answers](https://www.interviewbit.com/hr-interview-questions/)
+
+## Puzzles
+Mostly asked in service based or related companies.
+
+- []()
+- [Neso Academy Brain Teasers](https://www.nesoacademy.org/ot/01-brain-teasers)
+- [PrepInsta Top 100 Puzzles](https://prepinsta.com/top-100-puzzles/)
+
+## Interview Experience
+Interview experiences are important to know about round details, questions asked, topics to prepare, and tips for clearing.
+
+- [GeeksForGeeks Interview Experience Articles](https://www.geeksforgeeks.org/category/experiences/)
+- [AmbitionBox Company Interviews](https://www.ambitionbox.com/interviews)
+- [Glassdoor Company Questions](https://www.glassdoor.co.in/index.htm)
+- [Coding Ninjas/Naukri](https://www.naukri.com/code360/interview-experiences)
+- [Leetcode Discuss (#interview)](https://leetcode.com/discuss/topic/interview/)
