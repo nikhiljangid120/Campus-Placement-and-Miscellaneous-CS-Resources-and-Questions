@@ -64,6 +64,10 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [Database System Concepts 7th Edition Slides(Avi Silberschatz, Henry F. Korth, S. Sudarshan)](https://db-book.com/slides-dir/)
 - [JavaPoint DBMS Interview Questions](https://www.tpointtech.com/dbms-interview-questions)
 
+### Object Oriented Programming
+- [GeeksForGeeks Top 30+ OOP Interview Questions](https://www.geeksforgeeks.org/oops-interview-questions/)
+- [InterviewBit OOP Interview Questions](https://www.interviewbit.com/oops-interview-questions/)
+
 ### Operating System
 - [StudyTonight OS](https://www.studytonight.com/operating-system/)
 - [GeeksForGeeks OS](https://www.geeksforgeeks.org/operating-systems/)
