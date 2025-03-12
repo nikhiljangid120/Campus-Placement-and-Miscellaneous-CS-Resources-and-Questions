@@ -3,10 +3,10 @@
 - https://www.scribd.com/document/528246069/TCS-NQT-Preparation-Material
 - https://www.scribd.com/document/45121899/TCS-Question-Papers
 - https://www.scribd.com/doc/115915586/Tcs-Interview-Questions
-- https://www.geeksforgeeks.org/card-shuffle-problem-tcs-digital-advanced-coding-question/
+- [GeeksForGeeks TCS Digital Coding Question](https://www.geeksforgeeks.org/card-shuffle-problem-tcs-digital-advanced-coding-question/)
 - [PrepInsta TCS Digital Advanced Coding](https://prepinsta.com/tcs-digital/advanced-coding/)
 - [PrepInsta TCS NQT Advanced Coding Questions](https://prepinsta.com/tcs-nqt/placement-papers/advance/coding/)
-- [PrepInsta YouTube Playlist](https://www.youtube.com/playlist?list=PLKtofb3HgEyzFUW-ChHEknYXxTOGJIhkR)
+- [PrepInsta TCS NQT YouTube Playlist](https://www.youtube.com/playlist?list=PLKtofb3HgEyzFUW-ChHEknYXxTOGJIhkR)
 - [TalentBattle TCS Advanced Coding](https://talentbattle.in/tcs/advanced-coding)
 - [PacketPrep TCS NQT Prep YouTube Playlist](https://www.youtube.com/playlist?list=PLPiOSvowot1KAgZMjgn1v1peaJb6Kqt8s)
   
