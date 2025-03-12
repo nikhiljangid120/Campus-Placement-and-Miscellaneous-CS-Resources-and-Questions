@@ -1,5 +1,5 @@
 # General Coding, Learning, and Placement Resources
-This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements.
+This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements (for software roles).
 
 ## Table of Contents
 1. [Programming](#programming)
@@ -46,6 +46,7 @@ Platforms to practice coding and participate in contests.
 ### DSA and Mathematical Coding Questions
 To understand fundamentals and strengthen basic foundation in code implementation of data structures and algorithms.
 - [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
+- [GeeksForGeeks Topic-wise Practice Coding Questions](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
 - [FrazArmy for Recursion & Linked List (Beginners)](https://github.com/LeadCoding/FrazArmy)
 - [Dynamic Programming Roadmap (Beginners)](https://www.reddit.com/r/leetcode/comments/14o10jd/the_ultimate_dynamic_programming_roadmap/?rdt=53787)
 - [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
