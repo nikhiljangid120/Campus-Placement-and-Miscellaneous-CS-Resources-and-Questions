@@ -94,6 +94,7 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ## Cheatsheets
 Contains most asked interview questions in CS topics (helpful for last minute revision), company specific guided paths, coding questions, interview experiences, and mock tests.
 - [Coding Ninjas/ Code360 All Companies Interview Bundle](https://www.naukri.com/code360/interview-bundle)
+- [GeeksForGeeks Master Cheatsheet](https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/)
 - [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 - [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
 - [DevInterview Web/DSA/System Design/Machine Learning Topic-wise Technical Questions](https://devinterview.io/)
