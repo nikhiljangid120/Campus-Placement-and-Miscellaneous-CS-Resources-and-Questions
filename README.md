@@ -84,8 +84,9 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 ## Cheatsheets
-Most asked interview questions from CS concepts.
-
+Contains most asked interview questions in CS topics (helpful for last minute revision), company specific guided paths, coding questions, interview experiences, and mock tests.
+- [Coding Ninjas/ Code360 All Companies Interview Bundle](https://www.naukri.com/code360/interview-bundle)
+- [GeeksForGeeks A-Z Company Recruitment Process(Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
 - [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 - [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
 
