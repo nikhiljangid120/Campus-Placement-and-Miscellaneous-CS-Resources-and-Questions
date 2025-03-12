@@ -47,6 +47,7 @@ Platforms to practice coding and participate in contests.
 To understand fundamentals and strengthen basic foundation in code implementation of data structures and algorithms.
 - [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
 - [FrazArmy for Recursion & Linked List (Beginners)](https://github.com/LeadCoding/FrazArmy)
+- [Dynamic Programming Roadmap (Beginners)](https://www.reddit.com/r/leetcode/comments/14o10jd/the_ultimate_dynamic_programming_roadmap/?rdt=53787)
 - [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
 - [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
 - [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
