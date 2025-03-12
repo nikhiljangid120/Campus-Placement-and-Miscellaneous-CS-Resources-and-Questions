@@ -90,6 +90,7 @@ Contains most asked interview questions in CS topics (helpful for last minute re
 - [GeeksForGeeks A-Z Company Recruitment Process (Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
 - [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 - [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
+- [DevInterview Web/DSA/System Design/Machine Learning Topic-wise Technical Questions](https://devinterview.io/)
 
 ## Aptitude, Technical MCQs, Group Discussion, Technical Resources
 - [IndiaBix](https://www.indiabix.com/)
