@@ -1,4 +1,4 @@
-# General Coding and Learning Resources
+# General Coding, Learning, and Placement Resources
 This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements.
 
 ## Table of Contents
