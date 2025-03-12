@@ -12,7 +12,7 @@ This repository is used for saving questions with solutions from Hackkerank, Cod
 8. [Interview Experience](#interview-experience)
 
 ## Programming
-Helpful links for SQL and programming languages like C, Python with tutorials and solved practice questions.
+Helpful links for learning SQL and programming languages like C, Python with tutorials and solved practice questions.
 
 ### C Programming
 - [IncludeHelp C Tutorials and Questions](https://www.includehelp.com/c/)
@@ -75,6 +75,9 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [InterviewBit OOP Interview Questions](https://www.interviewbit.com/oops-interview-questions/)
 - [Let's Code OOP Interview Questions](https://www.lets-code.co.in/interview/oppsinterviewquestions)
 
+## Software Engineering
+- [GeeksForGeeks Top 50+ Software Engineering Interview Questions](https://www.geeksforgeeks.org/top-50-software-engineering-interview-questions-and-answers/)
+- [Guru99 Software Engineering Interview Questions](https://www.guru99.com/software-engineering-interview-questions.html)
 
 ### Operating System
 - [StudyTonight OS](https://www.studytonight.com/operating-system/)
