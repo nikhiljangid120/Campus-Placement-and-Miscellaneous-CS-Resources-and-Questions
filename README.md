@@ -3,7 +3,7 @@ This repository is used for saving questions with solutions from Hackkerank, Cod
 
 ## Table of Contents
 1. [Programming](#programming)
-2. [Coding Platforms and SDE Sheets](#coding-platforms-and-sde-sheets)
+2. [Coding Platforms, DSA, and SDE Sheets](#coding-platforms-dsa-and-sde-sheets)
 3. [CS Concepts](#cs-concepts)
 4. [Cheatsheets](#cheatsheets)
 5. [Aptitude, Technical MCQs, Group Discussion, HR Questions](#aptitude-technical-mcqs-group-discussion-hr-questions)
@@ -33,7 +33,7 @@ Helpful links for SQL and programming languages like C, Python with tutorials an
 - [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 - [Official Oracle Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/toc.htm)
 
-## Coding Platforms and SDE Sheets
+## Coding Platforms, DSA, and SDE Sheets
 ### Coding Platforms
 Platforms to practice coding and participate in contests.
 - [Leetcode (for PBCs)](https://leetcode.com/problemset/)
