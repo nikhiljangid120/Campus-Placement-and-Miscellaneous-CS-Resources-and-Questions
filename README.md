@@ -76,6 +76,7 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [Let's Code OOP Interview Questions](https://www.lets-code.co.in/interview/oppsinterviewquestions)
 
 ### Software Engineering
+- [GeeksForGeeks Software Engineering](https://www.geeksforgeeks.org/software-engineering/)
 - [GeeksForGeeks Top 50+ Software Engineering Interview Questions](https://www.geeksforgeeks.org/top-50-software-engineering-interview-questions-and-answers/)
 - [Guru99 Software Engineering Interview Questions](https://www.guru99.com/software-engineering-interview-questions.html)
 
