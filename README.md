@@ -44,6 +44,7 @@ Platforms to practice coding and participate in contests.
 
 
 ### DSA and Mathematical Coding Questions
+To understand fundamentals and strengthen basic foundation in code implementation of data structures and algorithms.
 - [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
 - [FrazArmy for Recursion & Linked List (Beginners)](https://github.com/LeadCoding/FrazArmy)
 - [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
