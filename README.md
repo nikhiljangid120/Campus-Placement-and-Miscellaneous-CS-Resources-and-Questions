@@ -51,6 +51,7 @@ DSA coding sheets to land software development roles in product based companies.
 
 ### DSA and Mathematical Coding Questions
 - [GeeksForGeeks Maths Coding Programs](https://www.geeksforgeeks.org/mathematical-algorithms/)
+- [FrazArmy for Recursion & Linked List (Beginners)](https://github.com/LeadCoding/FrazArmy)
 - [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
 - [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
 - [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
