@@ -89,6 +89,8 @@ Most asked interview questions from CS concepts.
 - [Group Discussion Topic-wise Preparation](https://www.groupdiscussionideas.com/)
 
 ## HR Questions
+- [CareerVidz YouTube Videos](https://www.youtube.com/@CareerVidz)
+- [Top 100 HR Questions (Richard McMunn)](https://passmyinterview.com/100-interview-questions-and-answers/)
 - [Naukri.com Top 50+ HR Questions with Answers](https://www.naukri.com/blog/frequently-asked-hr-interview-questions-and-answers/)
 - [Keka 30 HR Questions with Answers](https://www.keka.com/hr-round-interview-questions-and-answers)
 - [Tpoint Tech HR Questions with Multiple Answers](https://www.tpointtech.com/job-interview-questions)
