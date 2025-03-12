@@ -67,6 +67,8 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ### Object Oriented Programming
 - [GeeksForGeeks Top 30+ OOP Interview Questions](https://www.geeksforgeeks.org/oops-interview-questions/)
 - [InterviewBit OOP Interview Questions](https://www.interviewbit.com/oops-interview-questions/)
+- [Let's Code OOP Interview Questions](https://www.lets-code.co.in/interview/oppsinterviewquestions)
+
 
 ### Operating System
 - [StudyTonight OS](https://www.studytonight.com/operating-system/)
