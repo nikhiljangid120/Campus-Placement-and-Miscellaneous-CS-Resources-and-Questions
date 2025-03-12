@@ -94,7 +94,6 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ## Cheatsheets
 Contains most asked interview questions in CS topics (helpful for last minute revision), company specific guided paths, coding questions, interview experiences, and mock tests.
 - [Coding Ninjas/ Code360 All Companies Interview Bundle](https://www.naukri.com/code360/interview-bundle)
-- [GeeksForGeeks A-Z Company Recruitment Process (Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
 - [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 - [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
 - [DevInterview Web/DSA/System Design/Machine Learning Topic-wise Technical Questions](https://devinterview.io/)
@@ -103,7 +102,9 @@ Contains most asked interview questions in CS topics (helpful for last minute re
 - [IndiaBix](https://www.indiabix.com/)
 - [Group Discussion Topic-wise Preparation](https://www.groupdiscussionideas.com/)
 - [Coding Ninjas/ Code360 Technical Resources Library](https://www.naukri.com/code360/library)
-
+- [GeeksForGeeks Placement Prep](https://www.geeksforgeeks.org/placements-gq/)
+- [GeeksForGeeks A-Z Company Recruitment Process (Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
+  
 ## HR Questions
 - [CareerVidz YouTube Videos](https://www.youtube.com/@CareerVidz)
 - [Top 100 HR Questions (Richard McMunn)](https://passmyinterview.com/100-interview-questions-and-answers/)
