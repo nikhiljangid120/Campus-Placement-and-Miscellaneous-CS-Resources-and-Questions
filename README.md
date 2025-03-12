@@ -50,6 +50,7 @@ To understand fundamentals and strengthen basic foundation in code implementatio
 - [Neetcode DSA Roadmap](https://neetcode.io/roadmap)
 - [Sanfoundry Python Programs + DSA in Python](https://www.sanfoundry.com/python-problems-solutions/)
 - [Sanfoundry DSA in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
+- [C Program for Hash Table (Ben Hoyt)](https://benhoyt.com/writings/hash-table-in-c/)
 
 
 ### SDE Sheets
