@@ -6,7 +6,7 @@ This repository is used for saving questions with solutions from Hackkerank, Cod
 2. [Coding Platforms, DSA, and SDE Sheets](#coding-platforms-dsa-and-sde-sheets)
 3. [CS Concepts](#cs-concepts)
 4. [Cheatsheets](#cheatsheets)
-5. [Aptitude, Technical MCQs, Group Discussion, HR Questions](#aptitude-technical-mcqs-group-discussion-hr-questions)
+5. [Aptitude, Technical MCQs, Group Discussion, Technical Resources](#aptitude-technical-mcqs-group-discussion-technical-resources)
 6. [HR Questions (Freshers)](#hr-questions)
 7. [Puzzles](#puzzles)
 8. [Interview Experience](#interview-experience)
@@ -89,9 +89,10 @@ Most asked interview questions from CS concepts.
 - [CS Cheatsheet](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
 - [CN Cheatsheet](https://www.geeksforgeeks.org/computer-network-cheat-sheet/)
 
-## Aptitude, Technical MCQs, Group Discussion, HR Questions
+## Aptitude, Technical MCQs, Group Discussion, Technical Resources
 - [IndiaBix](https://www.indiabix.com/)
 - [Group Discussion Topic-wise Preparation](https://www.groupdiscussionideas.com/)
+- [Coding Ninjas/ Code360 Technical Resources Library](https://www.naukri.com/code360/library)
 
 ## HR Questions
 - [CareerVidz YouTube Videos](https://www.youtube.com/@CareerVidz)
