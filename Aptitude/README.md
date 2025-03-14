@@ -13,4 +13,5 @@ Tip: Learn shortcuts and tricks because most test durations are set in a way to 
 - [GeeksForGeeks Tips for Compound Interest](https://www.geeksforgeeks.org/shortcuts-and-tricks-for-compound-interest/)
 - [GeeksForGeeks Tricks for Partnership Problems](https://www.geeksforgeeks.org/tricks-to-solve-partnership-problems/)
 - [GeeksForGeeks Tricks & Shortcuts for Calendar Problems](https://www.geeksforgeeks.org/tricks-to-solve-calendar-problems/)
+- [PrepInsta Tricks & Shortcuts for HCF and LCM](https://prepinsta.com/hcf-and-lcm/tips-and-tricks-and-shortcuts/) 
 - [Quantitative Aptitude YouTube (Tricks & Shortcuts)](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
