@@ -12,6 +12,7 @@ TIP: Search for required resources be it coding questions/interview preparation/
 6. [HR Questions (Freshers)](#hr-questions)
 7. [Puzzles](#puzzles)
 8. [Interview Experience](#interview-experience)
+9. [Hackathons and Contests](#hackathons-and-contests)
 
 ## Programming
 Helpful links for learning SQL and programming languages like C, Python with tutorials and solved practice questions.
@@ -135,3 +136,8 @@ Interview experiences are important to know about round details, questions asked
 - [Glassdoor Company Questions](https://www.glassdoor.co.in/index.htm)
 - [Coding Ninjas/Naukri Interview Experience](https://www.naukri.com/code360/interview-experiences)
 - [Leetcode Discuss (#interview)](https://leetcode.com/discuss/topic/interview/)
+
+## Hackathons and Contests
+Platforms to find upcoming hackathons and various contests.
+- [Unstop](https://unstop.com/)
+- [Devpost](https://devpost.com/)
