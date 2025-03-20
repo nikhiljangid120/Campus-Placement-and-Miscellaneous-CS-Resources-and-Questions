@@ -108,6 +108,7 @@ Contains most asked interview questions in CS topics (helpful for last minute re
 - [GeeksForGeeks Placement Prep](https://www.geeksforgeeks.org/placements-gq/)
 - [Cracking Programming Interviews](https://saiadarsh.medium.com/hacking-the-programming-interview-1fbf498fe302)
 - [GeeksForGeeks A-Z Company Recruitment Process (Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
+- [Forage (Job Simulation Projects)](https://www.theforage.com/)
   
 ## HR Questions
 - [CareerVidz YouTube Videos](https://www.youtube.com/@CareerVidz)
