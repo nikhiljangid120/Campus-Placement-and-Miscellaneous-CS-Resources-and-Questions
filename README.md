@@ -138,6 +138,7 @@ Interview experiences are important to know about round details, questions asked
 - [Glassdoor Company Questions](https://www.glassdoor.co.in/index.htm)
 - [Coding Ninjas/Naukri Interview Experience](https://www.naukri.com/code360/interview-experiences)
 - [Leetcode Discuss (#interview)](https://leetcode.com/discuss/topic/interview/)
+- [RECursion Interview Experience (Freshers)](https://recursionnitd.in/experience/)
 
 ## Resume
 Resources for resume templates and scoring.
