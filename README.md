@@ -109,6 +109,7 @@ Contains most asked interview questions in CS topics (helpful for last minute re
 - [Cracking Programming Interviews](https://saiadarsh.medium.com/hacking-the-programming-interview-1fbf498fe302)
 - [GeeksForGeeks A-Z Company Recruitment Process (Freshers)](https://www.geeksforgeeks.org/company-wise-recruitment-process/)
 - [How to Explain Projects in Interviews?](https://www.linkedin.com/posts/rajatgajbhiye_i-screwed-up-2-interviews-because-i-couldnt-activity-7307981348776898560-vpW0/)
+- [Acing Project-related Questions in Interviews](https://www.linkedin.com/posts/riddhi-dutta_interviewtips-techinterviews-softwareengineering-activity-7296433789558251521-CxfB/)
 - [Forage (Job Simulation Projects)](https://www.theforage.com/)
   
 ## HR Questions
