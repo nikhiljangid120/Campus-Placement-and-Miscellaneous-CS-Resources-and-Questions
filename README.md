@@ -144,6 +144,8 @@ Interview experiences are important to know about round details, questions asked
 ## Resume
 Resources for resume templates and scoring.
 
+- [Tips and Mistakes to Avoid in Resume](https://www.linkedin.com/posts/pratham-jiwanani_your-resume-is-getting-rejected-before-it-activity-7300175001066905602-sE9V/)
+
 ### Resume Templates
 - [FlowCV (for neat, easy-to-make resumes)](https://flowcv.com/)
 - [Overleaf (ATS friendly, LaTeX knowledge required)](https://www.overleaf.com/)
