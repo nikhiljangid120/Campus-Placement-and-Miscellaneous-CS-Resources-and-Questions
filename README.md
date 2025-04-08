@@ -35,6 +35,7 @@ Helpful links for learning SQL and programming languages like C, Python with tut
 - [GeeksForGeeks SQL Questions for Interviews](https://www.geeksforgeeks.org/sql-interview-questions/)
 - [GeeksForGeeks SQL Queries Asked in Interviews](https://www.geeksforgeeks.org/sql-query-interview-questions/)
 - [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
+- [Oracle Dev Gym](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::)
 - [Official Oracle Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/toc.htm)
 
 ## Coding Platforms, DSA, and SDE Sheets
