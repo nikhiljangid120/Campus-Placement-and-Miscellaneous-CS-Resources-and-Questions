@@ -14,6 +14,7 @@ TIP: Search for required resources be it coding questions/interview preparation/
 8. [Interview Experience](#interview-experience)
 9. [Resume](#resume)
 10. [Hackathons and Contests](#hackathons-and-contests)
+11. [General Tips for Campus Placements](#general-tips)
 
 ## Programming
 Helpful links for learning SQL and programming languages like C, Python with tutorials and solved practice questions.
@@ -163,3 +164,15 @@ Platforms to find upcoming hackathons and various contests.
 
 Useful links:
 - [Tech Stack for Winning Hackathons](https://www.linkedin.com/posts/aryankyatham_8-tech-hacks-that-helped-me-win-8-hackathons-activity-7307271982889295873-tzjW) 
+
+## General Tips
+Some general but underrated tips to crack campus placements (basically whatever you need to do to stand out to the recruiter among hundreds of competitors):
+- In self intro/ tell me about yourself, it's good to start with your name, department and college, and latest CGPA. Followed by your top 3 strengths (pitch yourself to the interviewer as a solid candidate for hiring), short term and long term goals (optional), top skills and tech stack (try to tailor it to the job role and expected skill-set), top achievements in hackathons/ contests/ paper publications (highlight how your achievements are proof of your tech and soft skills), positions of responsibility (pitch your leadership and teamwork skills, be it your position in a club, event, or class committee), and if time permits brief your top projects and hobbies.
+- Keep your self intro short and crisp, lasting 2-5 minutes. Ensure that your important highlights like achievements and skills (tech & soft) are spoken in the initial few minutes itself of your self intro because some interviewers might interrupt midway to start the interview soon.
+- Keep your resume neat in PDF format and avoid columns, colorful look, pictures, graphs and visualizations, and unprofessional/ difficult to read font style and size. Do proper spacing between each section and sub-sections, make it easy to read.
+- Resume should be only 1 page long, because most interviewers spend only few seconds reading it and hence might not go throught the 2nd page or just give a quick glance overall without reading it properly, so they might miss out focusing on important details. That'd be a disadvantage for you because you won't stand out to the recruiter as a potential candidate.
+- Your resume should have your name, contact number, personal email, LinkedIn and GitHub profile links, and links to coding profiles like LeetCode and CodeChef if you have a good contest rating. Keep your personal email professional and easy to remember. Make sure that your resume is visible to all in view-only mode in case of submitting Google drive links to recruiters.
+- Put skills section on top with proper sub-sections like programming languages: C, Python, databases: Oracle, MySQL, frameworks: Scikit, Pytorch, tools: Power BI, Tableau, others: machine learning, deep learning, etc.
+- Ensure that your resume has education, skills, experience, projects, achievements, and certifications section. If resume still has space, you can include profile section on top and position of responsibility and hobbies and interests sections at the bottom of resume.
+- Avoid vague descriptions in sections like projects, internships, and achievements in resume. For these sections, give a crisp 2-3 line description of what model/ application you've done to solve what problem along with quantitative accuracy and performance metrics. Write the tech stack used for each in a separate line below.
+- Spell check everything in resume thoroughly, and avoid repeating words and unnecessary details. Only include top 3-4 projects, achievements, and certifications.
