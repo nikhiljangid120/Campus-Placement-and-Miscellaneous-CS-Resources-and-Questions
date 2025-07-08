@@ -1,5 +1,5 @@
 # General Coding, Learning, and Placement Resources
-This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements (for software roles).
+This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements (for software roles 2025).
 
 TIP: Search for required resources be it coding questions/interview preparation/learning resource by searching repositories in GitHub or in Scribd website for related documents. LinkedIn posts from people working in top PBCs contain valuable advices, interview tips, and resources. Subscribe to their newsletters for helpful technical resources and industry tips.
 
