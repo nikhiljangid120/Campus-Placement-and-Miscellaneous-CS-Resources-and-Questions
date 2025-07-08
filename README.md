@@ -184,3 +184,4 @@ Some general but underrated tips to crack campus placements (basically whatever 
 - Always research the company beforehand and ask meaningful questions to the interviewer at the end of each interview round to show your interest in the company and job role being offered. Never leave the interview without asking questions at end.
 - Research and know the key people (like founder, CEO, CTO, etc) in the company, the domains where the company works on, it's products/ services offered, it's competitors, etc.
 - When explaining projects and internships, make it brief and state the problem statement, reason for choosing the project, how you solved the problem, tech stack used, and it's impact and performance metrics. Know to explain it's future work, challenges faced and how you overcame them, etc if interviewer asks.
+- Some interviewers expect you to write blocks of code from your projects, so revise your code in projects too.
