@@ -15,3 +15,13 @@ Tip: Learn shortcuts and tricks because most test durations are set in a way to 
 - [GeeksForGeeks Tricks & Shortcuts for Calendar Problems](https://www.geeksforgeeks.org/tricks-to-solve-calendar-problems/)
 - [PrepInsta Tricks & Shortcuts for HCF and LCM](https://prepinsta.com/hcf-and-lcm/tips-and-tricks-and-shortcuts/) 
 - [Quantitative Aptitude YouTube (Tricks & Shortcuts)](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
+
+## Frequently Asked Questions
+These are the list of important topics to prepare for numerical, verbal, and non-verbal aptitude questions (including **data interpretation** type questions)-
+
+![a1](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a1.jpg)
+![a2](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a2.jpg)
+![a3](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a3.jpg)
+![a4](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a4.jpg)
+![a5](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a5.jpg)
+![a6](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/Aptitude/a6.jpg)
