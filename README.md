@@ -161,6 +161,8 @@ Resources for resume templates and scoring.
 Platforms to find upcoming hackathons and various contests.
 - [Unstop](https://unstop.com/)
 - [Devpost](https://devpost.com/)
+- [Devnovate](https://devnovate.co/)
+- [Hackerearth Hackathons](https://www.hackerearth.com/challenges/hackathon/)
 
 Useful links:
 - [Tech Stack for Winning Hackathons](https://www.linkedin.com/posts/aryankyatham_8-tech-hacks-that-helped-me-win-8-hackathons-activity-7307271982889295873-tzjW) 
