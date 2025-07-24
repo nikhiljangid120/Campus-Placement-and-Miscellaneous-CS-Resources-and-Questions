@@ -8,3 +8,4 @@
 
 # Miscellaneous
 - [ML Scientist Resume Tips](https://www.linkedin.com/posts/ardivekar_ive-been-reviewing-student-resumes-for-ml-activity-7296132322783817728-7903/)
+- [Kaggle Roadmap](https://www.kaggle.com/discussions/getting-started/73164)
