@@ -1,7 +1,7 @@
 # General Coding, Learning, and Placement Resources
 This repository is used for saving questions with solutions from Hackkerank, Coding Ninjas, and useful documents and links of CS concepts like OS, CN, DBMS, OOP along with ML & DSA for my personal use. Also contains a lot of free and extremely helpful resources I used to crack campus interviews and placements (for software roles 2025).
 
-TIP: Search for required resources be it coding questions/interview preparation/learning resource by searching repositories in GitHub or in Scribd website for related documents. LinkedIn posts from people working in top PBCs contain valuable advices, interview tips, and resources. Subscribe to their newsletters for helpful technical resources and industry tips. Free soft copies of books can be obtained from Z-library.
+TIP: Search for required resources be it coding questions/interview preparation/learning resource by searching repositories in GitHub or in Scribd website for related documents. LinkedIn posts from people working in top PBCs contain valuable advices, interview tips, and resources. Subscribe to their newsletters for helpful technical resources and industry tips. Free soft copies of books can be obtained from Z-library. To get AI-powered complete personalized roadmaps to learn anything, use- https://roadmap.sh/
 
 ## Table of Contents
 1. [Programming](#programming)
@@ -17,7 +17,7 @@ TIP: Search for required resources be it coding questions/interview preparation/
 11. [General Tips for Campus Placements](#general-tips)
 
 ## Programming
-Helpful links for learning SQL and programming languages like C, Python with tutorials and solved practice questions.
+Helpful links for learning SQL and programming languages like C, Python with tutorials and solved practice questions. For visualizing code and understanding how code runs and what happens inside visually, check out- [Python Tutor Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
 ### C Programming
 - [IncludeHelp C Tutorials and Questions](https://www.includehelp.com/c/)
