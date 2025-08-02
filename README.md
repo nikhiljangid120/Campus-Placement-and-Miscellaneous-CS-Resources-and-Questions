@@ -158,8 +158,9 @@ Resources for resume templates and scoring.
 - [Enhancv](https://enhancv.com/resources/resume-checker/)
 
 ## Hackathons and Contests
-Platforms to find upcoming hackathons and various contests.
+Platforms to find upcoming hackathons and various contests. See winning hackathon projects, blogs of winning team experiences and tech stack used to get an idea of how to win hackathons.
 - [Unstop](https://unstop.com/)
+- [Hack2Skill](https://hack2skill.com/)
 - [Devpost](https://devpost.com/)
 - [Devnovate](https://devnovate.co/)
 - [Hackerearth Hackathons](https://www.hackerearth.com/challenges/hackathon/)
