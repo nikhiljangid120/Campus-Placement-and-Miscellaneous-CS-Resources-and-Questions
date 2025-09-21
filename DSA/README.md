@@ -2,6 +2,8 @@
 - [Free Books GitHub Repository (All Languages)](https://github.com/GauravWalia19/Free-Algorithms-Books/tree/main)
 
 ## DSA Topic-wise Learning Path based on Difficulty
+DSA visualizer for better understanding- https://visualgo.net/en
+
 ![DSA Topics Chart](https://github.com/Samuela31/Campus-Placement-and-Miscellaneous-CS-Resources-and-Questions/blob/main/DSA/DSA%20Topic-wise%20learning%20based%20on%20difficulty.jpg) 
 
 # Patterns to Crack DSA Coding Interviews
