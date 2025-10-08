@@ -95,6 +95,12 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 - [StudyTonight CN](https://www.studytonight.com/computer-networks/)
 - [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
+### Linux Commands
+Not always required, but some companies prefer knowledge of Linux commands.
+
+-[Linux Commands List](https://ss64.com/bash/)
+
+
 ## Cheatsheets
 Contains most asked interview questions in CS topics (helpful for last minute revision), company specific guided paths, coding questions, interview experiences, and mock tests.
 - [Coding Ninjas/ Code360 All Companies Interview Bundle](https://www.naukri.com/code360/interview-bundle)
