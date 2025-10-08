@@ -98,7 +98,7 @@ Helpful links to study DBMS, OS, CN concepts with tutorials, MCQs, and practice 
 ### Linux Commands
 Not always required, but some companies prefer knowledge of Linux commands.
 
--[Linux Commands List](https://ss64.com/bash/)
+- [Linux Commands List](https://ss64.com/bash/)
 
 
 ## Cheatsheets
