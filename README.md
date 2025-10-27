@@ -8,7 +8,7 @@ TIP: Search for required resources be it coding questions/interview preparation/
 2. [Coding Platforms, DSA, and SDE Sheets](#coding-platforms-dsa-and-sde-sheets)
 3. [CS Concepts](#cs-concepts)
 4. [Cheatsheets](#cheatsheets)
-5. [Aptitude, Technical MCQs, Group Discussion, Technical Resources](#aptitude-technical-mcqs-group-discussion-technical-resources)
+5. [Aptitude, Technical MCQs, Group Discussion, Technical Resources](#aptitude-technical-mcqs-group-discussion-technical-resources) 
 6. [HR Questions (Freshers)](#hr-questions)
 7. [Puzzles](#puzzles)
 8. [Interview Experience](#interview-experience)
